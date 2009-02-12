@@ -1,7 +1,7 @@
 <?php
 /*
  Plugin Name: Widget Control
- Plugin URI: http://feedmeastraycat.net/widget-control/
+ Plugin URI: http://www.feedmeastraycat.net/widget-control/
  Description: Widget Control helps you keep more Control of your Widgets.
  Version: 0.0.1
  Author: David M&aring;rtensson
