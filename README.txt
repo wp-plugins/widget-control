@@ -13,7 +13,9 @@ Widget Control is a plugin which aims to add more advanced control over your Wid
 it has is the ability to disable all Widgets at the same time. I hope to get some time and ideas to add more features
 in the future.<br/>
 <br/>
-I've only tested the plugin with WP 2.7.0 and 2.7.1, but it will probobly work in older version as well. Let me know!
+I've only tested the plugin with WP 2.7.0 and 2.7.1, but it will probobly work in older version as well. Let me know!<br/>
+<br/>
+<a href="mailto:david.martensson@gmail.com?subject=Widget Control">Contact me</a> for requests or bug reports! :)
 
 == Installation ==
 
